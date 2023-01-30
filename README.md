@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **BigbigShark/BigbigShark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,3 +16,7 @@ Here are some ideas to get you started:
 
 <!-- 贪吃蛇 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/BigbigShark/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
+
+<!-- Self-introduction -->
+# Hi there 👋
+<p> &nbsp;&nbsp;I'm a student majored in CS</p>
