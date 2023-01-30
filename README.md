@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <!-- GitHub statistics -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigbigShark&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" />
-  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BigbigShark&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigbigShark&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BigbigShark&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
 </div> 
