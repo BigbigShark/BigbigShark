@@ -27,3 +27,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=ai,py,pytorch,c,cpp,github,git,html,linux,mastodon,md,mysql,octave,css" />
   </a>
 </p>
+
+<!-- GitHub statistics -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BigbigShark&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BigbigShark&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+</div> 
