@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BigbigShark&theme=dark&layout=compact)
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=BigbigShark&theme=xcode" /> </div>
