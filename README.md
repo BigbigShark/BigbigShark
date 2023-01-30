@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 <!-- Self-introduction -->
 # Hi there 👋
-<p> &nbsp;&nbsp;I'm a student majored in CS</p>
+<p>&nbsp;&nbsp;I'm Bridge Yao (she/they) - I'm a student majored in CS at Huazhong University of Science and Technology. I'm interested in Computer Vision and robotics, especially the interaction of them. I work on random projects in my free time, a lot involving laguage learning!</p><br>
+
