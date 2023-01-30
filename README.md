@@ -16,14 +16,17 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Bridge+Yao;A+Student+Major+in+CS@HUST)](https://git.io/typing-svg)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigbigShark&theme=dark&layout=compact&hide_title=true&hide_border=true&langs_count=6" /> </div>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BigbigShark&theme=dark&layout=compact)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigbigShark&theme=dark&layout=compact&hide_title=true&hide_border=true"> </div>
+
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BigbigShark&theme=react-dark)
 
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BigbigShark&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BigbigShark&theme=dark&layout=compact)
 
 ![Metrics](https://metrics.lecoq.io/BigbigShark?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
