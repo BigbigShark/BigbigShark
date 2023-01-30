@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 # Hi there 👋
 <p>I'm Bridge Yao (she/they) - I'm a student majored in CS at Huazhong University of Science and Technology. I'm interested in Computer Vision and robotics, especially the interaction of them. I work on random projects in my free time, a lot involving laguage learning!</p><br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
