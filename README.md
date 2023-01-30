@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BigbigShark&theme=dark&layout=compact)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BigbigShark)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BigbigShark&theme=react-dark)
