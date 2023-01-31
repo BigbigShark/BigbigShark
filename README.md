@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- Skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,py,pytorch,c,cpp,github,git,html,linux,mastodon,md,mysql,octave,css" />
+    <img src="https://skillicons.dev/icons?i=ai,py,pytorch,c,cpp,github,git,html,linux,mastodon,md,mysql,octave,css,bot" />
   </a>
 </p>
 
