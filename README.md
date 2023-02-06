@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=开源的拥泵;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=开源的拥泵&center=true&size=27;" />
   </a>
 </h1>
 
