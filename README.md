@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 <!-- 贪吃蛇 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/BigbigShark/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
 
+<!-- dynamic typing effect 动态打字效果 -->
+<h1 align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=开源的拥泵;" />
+  </a>
+</h1>
+
 <!-- Self-introduction -->
 # Hi there 👋
 <p>I'm Bridge Yao (she/they) - I'm a student majored in CS at Huazhong University of Science and Technology. I'm interested in Computer Vision and robotics, especially the interaction of them. I work on random projects in my free time, a lot involving fediverse!</p><br>
