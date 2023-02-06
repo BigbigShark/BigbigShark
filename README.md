@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=开源的拥趸&center=true&size=27;去中心化的捍卫者&center=true&size=27" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=开源的拥趸;去中心化的捍卫者&center=true&size=27" />
 </h1>
 
 <!-- Self-introduction -->
