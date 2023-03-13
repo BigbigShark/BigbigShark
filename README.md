@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 贪吃蛇 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/BigbigShark/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
+<!-- div align="center"><img src="https://cdn.jsdelivr.net/gh/BigbigShark/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" / --><!-- /div -->
 
 <!-- dynamic typing effect 动态打字效果 -->
 <h1 align="center">
